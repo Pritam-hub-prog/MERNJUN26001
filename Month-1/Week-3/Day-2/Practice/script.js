@@ -109,8 +109,7 @@ let obj1 = new Object({
 });
 console.log(obj1.email);
 
-// operator
-// types
+// operator types
 // Arithmatic
 // Assignment
 // Comparision
